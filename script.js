@@ -1,3 +1,5 @@
+
+
 function scrollToElement(elementSelector, instance = 0) {
     // Select all elements that match the given selector
     const elements = document.querySelectorAll(elementSelector);
@@ -24,3 +26,20 @@ link2.addEventListener('click', () => {
 link3.addEventListener('click', () => {
     scrollToElement('.column');
 });
+
+
+const sr = ScrollReveal({
+    origin: 'top',
+    distance: '60px',
+    duration: 2000,
+    delay: 200,
+//     reset: true
+});
+
+// Scroll reveal animations for different sections
+sr.reveal('.Top', { delay: 500 });
+sr.reveal('header .content', { delay: 600 });
+sr.reveal('header .image', { delay: 700 });
+sr.reveal('.features .card', { interval: 200 });
+sr.reveal('.pricing .card', { interval: 200 });
+sr.reveal('footer .column', { interval: 200 });
