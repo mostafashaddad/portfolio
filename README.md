@@ -74,9 +74,9 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
 
 - **Email**: [mostafashaddadd@gmail.com](mailto:mostafashaddadd@gmail.com)  
-- **LinkedIn**: [Mostafa Shaddad](https://www.linkedin.com/in/mostafa-shaddad-6493a4345/)  
-- **GitHub**: [mostafashaddad](https://github.com/mostafashaddad)  
-- **Telegram**: [Mem_sheen](https://t.me/Mem_sheen)  
+- **LinkedIn**: [Mostafa Shaddad](https://www.linkedin.com/in/mostafa-shaddad-6493a4345/){:target="_blank"}  
+- **GitHub**: [mostafashaddad](https://github.com/mostafashaddad){:target="_blank"}  
+- **Telegram**: [Mem_sheen](https://t.me/Mem_sheen){:target="_blank"}  
 
 ---
 
