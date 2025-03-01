@@ -21,7 +21,7 @@ This portfolio serves as a digital resume and project showcase, providing an eas
 - **JavaScript** (for interactivity)  
 
 ## 📸 Screenshots
-*(Include screenshots here if available, or you can upload images and add links)*
+Screenshot.png
 
 ## 🚀 Getting Started
 ### Clone the repository
